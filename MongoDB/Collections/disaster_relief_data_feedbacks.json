@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "b99ff0e1-094d-4cbd-b08f-cf5f071952ec",
+    "userId": "997c0a3a-7c95-41a1-8d35-6d3c36616808",
+    "feedback": "Feedback message 0",
+    "rating": 3,
+    "forModule": "donation",
+    "createdAt": "2025-07-20T09:35:11.633033Z"
+  },
+  {
+    "_id": "269f9570-c1f8-4018-ac34-d70936bb5ded",
+    "userId": "997c0a3a-7c95-41a1-8d35-6d3c36616808",
+    "feedback": "Feedback message 1",
+    "rating": 3,
+    "forModule": "donation",
+    "createdAt": "2025-07-20T09:35:11.633066Z"
+  },
+  {
+    "_id": "a5f9a7de-106a-4968-aec9-4eb3601b5381",
+    "userId": "3493b4e5-de13-404c-a676-450b51324ea3",
+    "feedback": "Feedback message 2",
+    "rating": 5,
+    "forModule": "alerts",
+    "createdAt": "2025-07-20T09:35:11.633089Z"
+  },
+  {
+    "_id": "0663d86b-dfb0-4db1-b91e-0e7af765ddb0",
+    "userId": "8f99a7d8-0b91-446a-8e47-94d28ef21fe6",
+    "feedback": "Feedback message 3",
+    "rating": 5,
+    "forModule": "donation",
+    "createdAt": "2025-07-20T09:35:11.633100Z"
+  },
+  {
+    "_id": "862c1a8a-ec83-47fe-8b53-97d07a547ad5",
+    "userId": "fd877487-7128-4124-89d0-b43d4aa03cd0",
+    "feedback": "Feedback message 4",
+    "rating": 5,
+    "forModule": "donation",
+    "createdAt": "2025-07-20T09:35:11.633109Z"
+  },
+  {
+    "_id": "1d1f4b8d-3d6b-45dd-9511-033829b8c839",
+    "userId": "8f99a7d8-0b91-446a-8e47-94d28ef21fe6",
+    "feedback": "Feedback message 5",
+    "rating": 3,
+    "forModule": "helpRequest",
+    "createdAt": "2025-07-20T09:35:11.633123Z"
+  },
+  {
+    "_id": "12a4efea-2ec7-4b70-af5c-18e3457c781c",
+    "userId": "307b1521-2ca7-430f-abd6-49f2f98b5bc5",
+    "feedback": "Feedback message 6",
+    "rating": 4,
+    "forModule": "alerts",
+    "createdAt": "2025-07-20T09:35:11.633132Z"
+  },
+  {
+    "_id": "08ca69da-5a26-4731-b017-7b662e847990",
+    "userId": "997c0a3a-7c95-41a1-8d35-6d3c36616808",
+    "feedback": "Feedback message 7",
+    "rating": 3,
+    "forModule": "donation",
+    "createdAt": "2025-07-20T09:35:11.633144Z"
+  },
+  {
+    "_id": "14fc8aee-023a-4ac9-9d52-c8a55f41569a",
+    "userId": "f72ff6ec-96ce-48d6-a2be-8a00316272ec",
+    "feedback": "Feedback message 8",
+    "rating": 1,
+    "forModule": "donation",
+    "createdAt": "2025-07-20T09:35:11.633156Z"
+  },
+  {
+    "_id": "dd5c371f-5755-4f5b-81aa-92c5192cfcf1",
+    "userId": "8f99a7d8-0b91-446a-8e47-94d28ef21fe6",
+    "feedback": "Feedback message 9",
+    "rating": 1,
+    "forModule": "alerts",
+    "createdAt": "2025-07-20T09:35:11.633169Z"
+  }
+]

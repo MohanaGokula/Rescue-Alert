@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "bb07e4f6-1311-4012-b4d6-1db5d204f02a",
+    "itemName": "Resource 0",
+    "category": "food",
+    "quantityAvailable": 75,
+    "storedAt": {
+      "coordinates": [
+        80.2,
+        13.0
+      ],
+      "address": "Storage 0"
+    },
+    "managedBy": "18921d62-91c8-4bff-add8-eebf486dca01",
+    "lastUpdated": "2025-07-20T09:35:11.632242Z"
+  },
+  {
+    "_id": "5272a030-59b6-4962-a222-3260cbff8faa",
+    "itemName": "Resource 1",
+    "category": "medical",
+    "quantityAvailable": 48,
+    "storedAt": {
+      "coordinates": [
+        80.21000000000001,
+        13.01
+      ],
+      "address": "Storage 1"
+    },
+    "managedBy": "8d2d134c-835b-486d-8585-39a75380e2fb",
+    "lastUpdated": "2025-07-20T09:35:11.632265Z"
+  },
+  {
+    "_id": "9d079c62-6aa4-4555-b31a-86ee477290df",
+    "itemName": "Resource 2",
+    "category": "food",
+    "quantityAvailable": 39,
+    "storedAt": {
+      "coordinates": [
+        80.22,
+        13.02
+      ],
+      "address": "Storage 2"
+    },
+    "managedBy": "3493b4e5-de13-404c-a676-450b51324ea3",
+    "lastUpdated": "2025-07-20T09:35:11.632280Z"
+  },
+  {
+    "_id": "f1679982-fbdc-493a-83ea-1e3476418cee",
+    "itemName": "Resource 3",
+    "category": "food",
+    "quantityAvailable": 35,
+    "storedAt": {
+      "coordinates": [
+        80.23,
+        13.03
+      ],
+      "address": "Storage 3"
+    },
+    "managedBy": "8d2d134c-835b-486d-8585-39a75380e2fb",
+    "lastUpdated": "2025-07-20T09:35:11.632298Z"
+  },
+  {
+    "_id": "fa7072d6-4a0a-4ab5-a88a-204154ff2a5b",
+    "itemName": "Resource 4",
+    "category": "food",
+    "quantityAvailable": 29,
+    "storedAt": {
+      "coordinates": [
+        80.24000000000001,
+        13.04
+      ],
+      "address": "Storage 4"
+    },
+    "managedBy": "f72ff6ec-96ce-48d6-a2be-8a00316272ec",
+    "lastUpdated": "2025-07-20T09:35:11.632309Z"
+  },
+  {
+    "_id": "db72fa04-2854-4de3-ba64-98dc9ae4d487",
+    "itemName": "Resource 5",
+    "category": "food",
+    "quantityAvailable": 68,
+    "storedAt": {
+      "coordinates": [
+        80.25,
+        13.05
+      ],
+      "address": "Storage 5"
+    },
+    "managedBy": "18921d62-91c8-4bff-add8-eebf486dca01",
+    "lastUpdated": "2025-07-20T09:35:11.632318Z"
+  },
+  {
+    "_id": "df2342be-cddf-4d44-a1a5-81c9d136330a",
+    "itemName": "Resource 6",
+    "category": "food",
+    "quantityAvailable": 82,
+    "storedAt": {
+      "coordinates": [
+        80.26,
+        13.06
+      ],
+      "address": "Storage 6"
+    },
+    "managedBy": "3493b4e5-de13-404c-a676-450b51324ea3",
+    "lastUpdated": "2025-07-20T09:35:11.632329Z"
+  },
+  {
+    "_id": "6bb49234-4bfe-4b55-8aed-5991016fa546",
+    "itemName": "Resource 7",
+    "category": "food",
+    "quantityAvailable": 72,
+    "storedAt": {
+      "coordinates": [
+        80.27,
+        13.07
+      ],
+      "address": "Storage 7"
+    },
+    "managedBy": "f72ff6ec-96ce-48d6-a2be-8a00316272ec",
+    "lastUpdated": "2025-07-20T09:35:11.632342Z"
+  },
+  {
+    "_id": "939abd47-eede-4e68-897f-ec620beaeb9f",
+    "itemName": "Resource 8",
+    "category": "food",
+    "quantityAvailable": 96,
+    "storedAt": {
+      "coordinates": [
+        80.28,
+        13.08
+      ],
+      "address": "Storage 8"
+    },
+    "managedBy": "8d2d134c-835b-486d-8585-39a75380e2fb",
+    "lastUpdated": "2025-07-20T09:35:11.632355Z"
+  },
+  {
+    "_id": "96e61989-8011-49a6-896d-ef7b32a03ab3",
+    "itemName": "Resource 9",
+    "category": "food",
+    "quantityAvailable": 78,
+    "storedAt": {
+      "coordinates": [
+        80.29,
+        13.09
+      ],
+      "address": "Storage 9"
+    },
+    "managedBy": "3493b4e5-de13-404c-a676-450b51324ea3",
+    "lastUpdated": "2025-07-20T09:35:11.632371Z"
+  }
+]

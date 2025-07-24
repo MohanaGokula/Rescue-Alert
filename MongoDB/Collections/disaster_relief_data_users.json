@@ -1,0 +1,232 @@
+[
+  {
+    "_id": "8d2d134c-835b-486d-8585-39a75380e2fb",
+    "name": "User0",
+    "email": "user0@example.com",
+    "password": "hashed_password",
+    "phone": "+91-900000000",
+    "role": "authority",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.2,
+        13.0
+      ]
+    },
+    "language": "English",
+    "rewards": {
+      "points": 0,
+      "badges": [
+        "First Aid"
+      ]
+    },
+    "createdAt": "2025-07-20T09:35:11.627928Z",
+    "updatedAt": "2025-07-20T09:35:11.627936Z"
+  },
+  {
+    "_id": "307b1521-2ca7-430f-abd6-49f2f98b5bc5",
+    "name": "User1",
+    "email": "user1@example.com",
+    "password": "hashed_password",
+    "phone": "+91-900000001",
+    "role": "volunteer",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.21000000000001,
+        13.01
+      ]
+    },
+    "language": "English",
+    "rewards": {
+      "points": 10,
+      "badges": []
+    },
+    "createdAt": "2025-07-20T09:35:11.628142Z",
+    "updatedAt": "2025-07-20T09:35:11.628150Z"
+  },
+  {
+    "_id": "8f99a7d8-0b91-446a-8e47-94d28ef21fe6",
+    "name": "User2",
+    "email": "user2@example.com",
+    "password": "hashed_password",
+    "phone": "+91-900000002",
+    "role": "volunteer",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.22,
+        13.02
+      ]
+    },
+    "language": "English",
+    "rewards": {
+      "points": 20,
+      "badges": [
+        "First Aid"
+      ]
+    },
+    "createdAt": "2025-07-20T09:35:11.628443Z",
+    "updatedAt": "2025-07-20T09:35:11.628448Z"
+  },
+  {
+    "_id": "9512519a-ff26-4b7f-807e-ae4407f45c07",
+    "name": "User3",
+    "email": "user3@example.com",
+    "password": "hashed_password",
+    "phone": "+91-900000003",
+    "role": "volunteer",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.23,
+        13.03
+      ]
+    },
+    "language": "English",
+    "rewards": {
+      "points": 30,
+      "badges": []
+    },
+    "createdAt": "2025-07-20T09:35:11.628520Z",
+    "updatedAt": "2025-07-20T09:35:11.628528Z"
+  },
+  {
+    "_id": "997c0a3a-7c95-41a1-8d35-6d3c36616808",
+    "name": "User4",
+    "email": "user4@example.com",
+    "password": "hashed_password",
+    "phone": "+91-900000004",
+    "role": "donor",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.24000000000001,
+        13.04
+      ]
+    },
+    "language": "English",
+    "rewards": {
+      "points": 40,
+      "badges": [
+        "First Aid"
+      ]
+    },
+    "createdAt": "2025-07-20T09:35:11.628703Z",
+    "updatedAt": "2025-07-20T09:35:11.628721Z"
+  },
+  {
+    "_id": "f72ff6ec-96ce-48d6-a2be-8a00316272ec",
+    "name": "User5",
+    "email": "user5@example.com",
+    "password": "hashed_password",
+    "phone": "+91-900000005",
+    "role": "authority",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.25,
+        13.05
+      ]
+    },
+    "language": "English",
+    "rewards": {
+      "points": 50,
+      "badges": []
+    },
+    "createdAt": "2025-07-20T09:35:11.628840Z",
+    "updatedAt": "2025-07-20T09:35:11.628844Z"
+  },
+  {
+    "_id": "18921d62-91c8-4bff-add8-eebf486dca01",
+    "name": "User6",
+    "email": "user6@example.com",
+    "password": "hashed_password",
+    "phone": "+91-900000006",
+    "role": "authority",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.26,
+        13.06
+      ]
+    },
+    "language": "English",
+    "rewards": {
+      "points": 60,
+      "badges": [
+        "First Aid"
+      ]
+    },
+    "createdAt": "2025-07-20T09:35:11.628930Z",
+    "updatedAt": "2025-07-20T09:35:11.628936Z"
+  },
+  {
+    "_id": "3493b4e5-de13-404c-a676-450b51324ea3",
+    "name": "User7",
+    "email": "user7@example.com",
+    "password": "hashed_password",
+    "phone": "+91-900000007",
+    "role": "authority",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.27,
+        13.07
+      ]
+    },
+    "language": "English",
+    "rewards": {
+      "points": 70,
+      "badges": []
+    },
+    "createdAt": "2025-07-20T09:35:11.629164Z",
+    "updatedAt": "2025-07-20T09:35:11.629169Z"
+  },
+  {
+    "_id": "cc2701af-1872-44f8-8acb-7b2a714db0ec",
+    "name": "User8",
+    "email": "user8@example.com",
+    "password": "hashed_password",
+    "phone": "+91-900000008",
+    "role": "donor",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.28,
+        13.08
+      ]
+    },
+    "language": "English",
+    "rewards": {
+      "points": 80,
+      "badges": [
+        "First Aid"
+      ]
+    },
+    "createdAt": "2025-07-20T09:35:11.629596Z",
+    "updatedAt": "2025-07-20T09:35:11.629602Z"
+  },
+  {
+    "_id": "fd877487-7128-4124-89d0-b43d4aa03cd0",
+    "name": "User9",
+    "email": "user9@example.com",
+    "password": "hashed_password",
+    "phone": "+91-900000009",
+    "role": "donor",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.29,
+        13.09
+      ]
+    },
+    "language": "English",
+    "rewards": {
+      "points": 90,
+      "badges": []
+    },
+    "createdAt": "2025-07-20T09:35:11.629630Z",
+    "updatedAt": "2025-07-20T09:35:11.629632Z"
+  }
+]

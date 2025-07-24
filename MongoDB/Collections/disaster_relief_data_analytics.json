@@ -1,0 +1,202 @@
+[
+  {
+    "_id": "39871c07-b5fa-479b-9b7a-3ce47245f7be",
+    "date": "2025-07-20T09:35:11.632540Z",
+    "totalHelpRequests": 78,
+    "volunteersActive": 19,
+    "donationsSummary": {
+      "money": 39436,
+      "food": 447,
+      "clothes": 156
+    },
+    "mostAffectedZones": [
+      {
+        "coordinates": [
+          80.2,
+          13.0
+        ],
+        "priority": "high"
+      }
+    ]
+  },
+  {
+    "_id": "0ac5b842-104c-4bed-8df6-be7d91b27246",
+    "date": "2025-07-20T09:35:11.632651Z",
+    "totalHelpRequests": 69,
+    "volunteersActive": 25,
+    "donationsSummary": {
+      "money": 10847,
+      "food": 262,
+      "clothes": 114
+    },
+    "mostAffectedZones": [
+      {
+        "coordinates": [
+          80.21000000000001,
+          13.01
+        ],
+        "priority": "high"
+      }
+    ]
+  },
+  {
+    "_id": "aee1fddd-d598-447c-b8f3-28fdf33ea777",
+    "date": "2025-07-20T09:35:11.632698Z",
+    "totalHelpRequests": 119,
+    "volunteersActive": 37,
+    "donationsSummary": {
+      "money": 50838,
+      "food": 76,
+      "clothes": 285
+    },
+    "mostAffectedZones": [
+      {
+        "coordinates": [
+          80.22,
+          13.02
+        ],
+        "priority": "high"
+      }
+    ]
+  },
+  {
+    "_id": "0bc61bc7-6f8e-44ef-a1db-d39d04a53f11",
+    "date": "2025-07-20T09:35:11.632712Z",
+    "totalHelpRequests": 138,
+    "volunteersActive": 32,
+    "donationsSummary": {
+      "money": 19093,
+      "food": 260,
+      "clothes": 49
+    },
+    "mostAffectedZones": [
+      {
+        "coordinates": [
+          80.23,
+          13.03
+        ],
+        "priority": "high"
+      }
+    ]
+  },
+  {
+    "_id": "7c8ae4a8-7d6a-4db1-96b1-898b4af4c219",
+    "date": "2025-07-20T09:35:11.632724Z",
+    "totalHelpRequests": 75,
+    "volunteersActive": 21,
+    "donationsSummary": {
+      "money": 76636,
+      "food": 445,
+      "clothes": 37
+    },
+    "mostAffectedZones": [
+      {
+        "coordinates": [
+          80.24000000000001,
+          13.04
+        ],
+        "priority": "high"
+      }
+    ]
+  },
+  {
+    "_id": "2e81696c-cef7-4dee-a08f-afb330c9621b",
+    "date": "2025-07-20T09:35:11.632735Z",
+    "totalHelpRequests": 128,
+    "volunteersActive": 38,
+    "donationsSummary": {
+      "money": 17458,
+      "food": 414,
+      "clothes": 151
+    },
+    "mostAffectedZones": [
+      {
+        "coordinates": [
+          80.25,
+          13.05
+        ],
+        "priority": "high"
+      }
+    ]
+  },
+  {
+    "_id": "93c1a5b4-c6b5-4a81-84a6-78f6739b4524",
+    "date": "2025-07-20T09:35:11.632749Z",
+    "totalHelpRequests": 148,
+    "volunteersActive": 41,
+    "donationsSummary": {
+      "money": 26776,
+      "food": 102,
+      "clothes": 49
+    },
+    "mostAffectedZones": [
+      {
+        "coordinates": [
+          80.26,
+          13.06
+        ],
+        "priority": "high"
+      }
+    ]
+  },
+  {
+    "_id": "b4b6396a-b51c-4771-ba9d-99f97e8e6dee",
+    "date": "2025-07-20T09:35:11.632762Z",
+    "totalHelpRequests": 122,
+    "volunteersActive": 14,
+    "donationsSummary": {
+      "money": 31270,
+      "food": 364,
+      "clothes": 171
+    },
+    "mostAffectedZones": [
+      {
+        "coordinates": [
+          80.27,
+          13.07
+        ],
+        "priority": "high"
+      }
+    ]
+  },
+  {
+    "_id": "5ad0e216-aebd-4749-a1bf-18644c3d3402",
+    "date": "2025-07-20T09:35:11.632798Z",
+    "totalHelpRequests": 82,
+    "volunteersActive": 40,
+    "donationsSummary": {
+      "money": 32100,
+      "food": 499,
+      "clothes": 282
+    },
+    "mostAffectedZones": [
+      {
+        "coordinates": [
+          80.28,
+          13.08
+        ],
+        "priority": "high"
+      }
+    ]
+  },
+  {
+    "_id": "d3b264a8-4129-4688-b5dc-621c69b4f1e6",
+    "date": "2025-07-20T09:35:11.632814Z",
+    "totalHelpRequests": 116,
+    "volunteersActive": 29,
+    "donationsSummary": {
+      "money": 71191,
+      "food": 289,
+      "clothes": 269
+    },
+    "mostAffectedZones": [
+      {
+        "coordinates": [
+          80.29,
+          13.09
+        ],
+        "priority": "high"
+      }
+    ]
+  }
+]

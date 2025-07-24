@@ -1,0 +1,162 @@
+[
+  {
+    "_id": "a6fd7d7d-111c-4cec-a57a-95c2dba16ea7",
+    "userId": "8d2d134c-835b-486d-8585-39a75380e2fb",
+    "message": "Update message 0",
+    "type": "availability",
+    "disasterType": "flood",
+    "verified": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.2,
+        13.0
+      ]
+    },
+    "createdAt": "2025-07-20T09:35:11.631935Z"
+  },
+  {
+    "_id": "54b2b5ba-e083-4d34-96bc-03d49d28edd0",
+    "userId": "8f99a7d8-0b91-446a-8e47-94d28ef21fe6",
+    "message": "Update message 1",
+    "type": "roadblock",
+    "disasterType": "earthquake",
+    "verified": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.21000000000001,
+        13.01
+      ]
+    },
+    "createdAt": "2025-07-20T09:35:11.631966Z"
+  },
+  {
+    "_id": "a08f3974-027f-4999-a617-1bb3a0b34003",
+    "userId": "fd877487-7128-4124-89d0-b43d4aa03cd0",
+    "message": "Update message 2",
+    "type": "roadblock",
+    "disasterType": "flood",
+    "verified": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.22,
+        13.02
+      ]
+    },
+    "createdAt": "2025-07-20T09:35:11.631976Z"
+  },
+  {
+    "_id": "aae6d013-b182-40eb-82ca-71a269c56376",
+    "userId": "fd877487-7128-4124-89d0-b43d4aa03cd0",
+    "message": "Update message 3",
+    "type": "availability",
+    "disasterType": "earthquake",
+    "verified": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.23,
+        13.03
+      ]
+    },
+    "createdAt": "2025-07-20T09:35:11.631986Z"
+  },
+  {
+    "_id": "ff280a7b-ede8-4126-9203-055c6612a451",
+    "userId": "fd877487-7128-4124-89d0-b43d4aa03cd0",
+    "message": "Update message 4",
+    "type": "roadblock",
+    "disasterType": "flood",
+    "verified": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.24000000000001,
+        13.04
+      ]
+    },
+    "createdAt": "2025-07-20T09:35:11.631996Z"
+  },
+  {
+    "_id": "203b9487-da9b-42ff-85b1-5062f705bb90",
+    "userId": "997c0a3a-7c95-41a1-8d35-6d3c36616808",
+    "message": "Update message 5",
+    "type": "roadblock",
+    "disasterType": "flood",
+    "verified": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.25,
+        13.05
+      ]
+    },
+    "createdAt": "2025-07-20T09:35:11.632006Z"
+  },
+  {
+    "_id": "44c64016-77fa-4146-8a65-0478066b367e",
+    "userId": "18921d62-91c8-4bff-add8-eebf486dca01",
+    "message": "Update message 6",
+    "type": "availability",
+    "disasterType": "earthquake",
+    "verified": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.26,
+        13.06
+      ]
+    },
+    "createdAt": "2025-07-20T09:35:11.632017Z"
+  },
+  {
+    "_id": "bcf596ff-26af-435e-a259-cc313c4217b9",
+    "userId": "f72ff6ec-96ce-48d6-a2be-8a00316272ec",
+    "message": "Update message 7",
+    "type": "availability",
+    "disasterType": "flood",
+    "verified": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.27,
+        13.07
+      ]
+    },
+    "createdAt": "2025-07-20T09:35:11.632039Z"
+  },
+  {
+    "_id": "06a5f4f9-607e-4164-8e3d-872feddc385a",
+    "userId": "8d2d134c-835b-486d-8585-39a75380e2fb",
+    "message": "Update message 8",
+    "type": "availability",
+    "disasterType": "earthquake",
+    "verified": false,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.28,
+        13.08
+      ]
+    },
+    "createdAt": "2025-07-20T09:35:11.632066Z"
+  },
+  {
+    "_id": "77b27ed5-84f0-4cd1-9601-623cda29b4b8",
+    "userId": "307b1521-2ca7-430f-abd6-49f2f98b5bc5",
+    "message": "Update message 9",
+    "type": "availability",
+    "disasterType": "flood",
+    "verified": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.29,
+        13.09
+      ]
+    },
+    "createdAt": "2025-07-20T09:35:11.632082Z"
+  }
+]

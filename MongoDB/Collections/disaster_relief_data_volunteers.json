@@ -1,0 +1,137 @@
+[
+  {
+    "_id": "615f1a2b3c4d5e6f7a8b9c0d",
+    "userId": "615f1a2b3c4d5e6f7a8b9c01",
+    "availability": true,
+    "assignedRequests": [
+      "615f1a2b3c4d5e6f7a8b9d00",
+      "615f1a2b3c4d5e6f7a8b9d01"
+    ],
+    "currentLocation": {
+      "type": "Point",
+      "coordinates": [80.25, 13.05]
+    },
+    "gpsTrackingEnabled": true,
+    "lastUpdated": "2024-04-27T12:00:00Z"
+  },
+  {
+    "_id": "615f1a2b3c4d5e6f7a8b9c0e",
+    "userId": "615f1a2b3c4d5e6f7a8b9c02",
+    "availability": true,
+    "assignedRequests": [],
+    "currentLocation": {
+      "type": "Point",
+      "coordinates": [80.30, 13.10]
+    },
+    "gpsTrackingEnabled": false,
+    "lastUpdated": "2024-04-27T12:05:00Z"
+  },
+  {
+    "_id": "615f1a2b3c4d5e6f7a8b9c0f",
+    "userId": "615f1a2b3c4d5e6f7a8b9c03",
+    "availability": false,
+    "assignedRequests": [
+      "615f1a2b3c4d5e6f7a8b9d02"
+    ],
+    "currentLocation": {
+      "type": "Point",
+      "coordinates": [80.20, 13.00]
+    },
+    "gpsTrackingEnabled": true,
+    "lastUpdated": "2024-04-27T11:55:00Z"
+  },
+  {
+    "_id": "615f1a2b3c4d5e6f7a8b9c10",
+    "userId": "615f1a2b3c4d5e6f7a8b9c04",
+    "availability": true,
+    "assignedRequests": [
+      "615f1a2b3c4d5e6f7a8b9d03",
+      "615f1a2b3c4d5e6f7a8b9d04"
+    ],
+    "currentLocation": {
+      "type": "Point",
+      "coordinates": [80.28, 13.07]
+    },
+    "gpsTrackingEnabled": true,
+    "lastUpdated": "2024-04-27T12:10:00Z"
+  },
+  {
+    "_id": "615f1a2b3c4d5e6f7a8b9c11",
+    "userId": "615f1a2b3c4d5e6f7a8b9c05",
+    "availability": false,
+    "assignedRequests": [],
+    "currentLocation": {
+      "type": "Point",
+      "coordinates": [80.22, 13.02]
+    },
+    "gpsTrackingEnabled": false,
+    "lastUpdated": "2024-04-27T12:15:00Z"
+  },
+  {
+    "_id": "615f1a2b3c4d5e6f7a8b9c12",
+    "userId": "615f1a2b3c4d5e6f7a8b9c06",
+    "availability": true,
+    "assignedRequests": [
+      "615f1a2b3c4d5e6f7a8b9d05"
+    ],
+    "currentLocation": {
+      "type": "Point",
+      "coordinates": [80.24, 13.06]
+    },
+    "gpsTrackingEnabled": true,
+    "lastUpdated": "2024-04-27T12:20:00Z"
+  },
+  {
+    "_id": "615f1a2b3c4d5e6f7a8b9c13",
+    "userId": "615f1a2b3c4d5e6f7a8b9c07",
+    "availability": true,
+    "assignedRequests": [],
+    "currentLocation": {
+      "type": "Point",
+      "coordinates": [80.26, 13.08]
+    },
+    "gpsTrackingEnabled": true,
+    "lastUpdated": "2024-04-27T12:25:00Z"
+  },
+  {
+    "_id": "615f1a2b3c4d5e6f7a8b9c14",
+    "userId": "615f1a2b3c4d5e6f7a8b9c08",
+    "availability": false,
+    "assignedRequests": [
+      "615f1a2b3c4d5e6f7a8b9d06"
+    ],
+    "currentLocation": {
+      "type": "Point",
+      "coordinates": [80.23, 13.04]
+    },
+    "gpsTrackingEnabled": false,
+    "lastUpdated": "2024-04-27T12:30:00Z"
+  },
+  {
+    "_id": "615f1a2b3c4d5e6f7a8b9c15",
+    "userId": "615f1a2b3c4d5e6f7a8b9c09",
+    "availability": true,
+    "assignedRequests": [],
+    "currentLocation": {
+      "type": "Point",
+      "coordinates": [80.27, 13.09]
+    },
+    "gpsTrackingEnabled": true,
+    "lastUpdated": "2024-04-27T12:35:00Z"
+  },
+  {
+    "_id": "615f1a2b3c4d5e6f7a8b9c16",
+    "userId": "615f1a2b3c4d5e6f7a8b9c10",
+    "availability": false,
+    "assignedRequests": [
+      "615f1a2b3c4d5e6f7a8b9d07",
+      "615f1a2b3c4d5e6f7a8b9d08"
+    ],
+    "currentLocation": {
+      "type": "Point",
+      "coordinates": [80.21, 13.03]
+    },
+    "gpsTrackingEnabled": false,
+    "lastUpdated": "2024-04-27T12:40:00Z"
+  }
+]

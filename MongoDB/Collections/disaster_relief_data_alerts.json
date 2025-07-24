@@ -1,0 +1,362 @@
+[
+  {
+    "_id": "5b351274-dfe8-43e4-9e93-cdb693eaca84",
+    "type": "earthquake",
+    "source": "IMD",
+    "message": "Disaster Alert 0",
+    "severity": "critical",
+    "geoLocation": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.2,
+            13.0
+          ],
+          [
+            80.3,
+            13.0
+          ],
+          [
+            80.3,
+            13.1
+          ],
+          [
+            80.2,
+            13.1
+          ],
+          [
+            80.2,
+            13.0
+          ]
+        ]
+      ]
+    },
+    "issuedAt": "2025-07-20T09:35:11.631336Z",
+    "expiresAt": "2025-07-20T09:35:11.631340Z"
+  },
+  {
+    "_id": "559cd6e3-7e84-43fa-9fd2-3bba5d13341a",
+    "type": "flood",
+    "source": "IMD",
+    "message": "Disaster Alert 1",
+    "severity": "critical",
+    "geoLocation": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.2,
+            13.0
+          ],
+          [
+            80.3,
+            13.0
+          ],
+          [
+            80.3,
+            13.1
+          ],
+          [
+            80.2,
+            13.1
+          ],
+          [
+            80.2,
+            13.0
+          ]
+        ]
+      ]
+    },
+    "issuedAt": "2025-07-20T09:35:11.631371Z",
+    "expiresAt": "2025-07-20T09:35:11.631374Z"
+  },
+  {
+    "_id": "31f423cb-81ba-44db-a3f5-788f82b666e0",
+    "type": "cyclone",
+    "source": "IMD",
+    "message": "Disaster Alert 2",
+    "severity": "critical",
+    "geoLocation": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.2,
+            13.0
+          ],
+          [
+            80.3,
+            13.0
+          ],
+          [
+            80.3,
+            13.1
+          ],
+          [
+            80.2,
+            13.1
+          ],
+          [
+            80.2,
+            13.0
+          ]
+        ]
+      ]
+    },
+    "issuedAt": "2025-07-20T09:35:11.631392Z",
+    "expiresAt": "2025-07-20T09:35:11.631395Z"
+  },
+  {
+    "_id": "5a8a02dd-fb90-4e08-b2a6-e39afe43039b",
+    "type": "flood",
+    "source": "IMD",
+    "message": "Disaster Alert 3",
+    "severity": "critical",
+    "geoLocation": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.2,
+            13.0
+          ],
+          [
+            80.3,
+            13.0
+          ],
+          [
+            80.3,
+            13.1
+          ],
+          [
+            80.2,
+            13.1
+          ],
+          [
+            80.2,
+            13.0
+          ]
+        ]
+      ]
+    },
+    "issuedAt": "2025-07-20T09:35:11.631417Z",
+    "expiresAt": "2025-07-20T09:35:11.631420Z"
+  },
+  {
+    "_id": "32981402-099d-4e43-a19d-02fbeb2981d0",
+    "type": "earthquake",
+    "source": "IMD",
+    "message": "Disaster Alert 4",
+    "severity": "moderate",
+    "geoLocation": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.2,
+            13.0
+          ],
+          [
+            80.3,
+            13.0
+          ],
+          [
+            80.3,
+            13.1
+          ],
+          [
+            80.2,
+            13.1
+          ],
+          [
+            80.2,
+            13.0
+          ]
+        ]
+      ]
+    },
+    "issuedAt": "2025-07-20T09:35:11.631434Z",
+    "expiresAt": "2025-07-20T09:35:11.631437Z"
+  },
+  {
+    "_id": "f01c5c54-0ee3-4577-997c-c0f065cd1015",
+    "type": "flood",
+    "source": "IMD",
+    "message": "Disaster Alert 5",
+    "severity": "critical",
+    "geoLocation": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.2,
+            13.0
+          ],
+          [
+            80.3,
+            13.0
+          ],
+          [
+            80.3,
+            13.1
+          ],
+          [
+            80.2,
+            13.1
+          ],
+          [
+            80.2,
+            13.0
+          ]
+        ]
+      ]
+    },
+    "issuedAt": "2025-07-20T09:35:11.631451Z",
+    "expiresAt": "2025-07-20T09:35:11.631454Z"
+  },
+  {
+    "_id": "652011ae-09fb-4a57-b13a-a55b6ec98f3a",
+    "type": "cyclone",
+    "source": "IMD",
+    "message": "Disaster Alert 6",
+    "severity": "moderate",
+    "geoLocation": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.2,
+            13.0
+          ],
+          [
+            80.3,
+            13.0
+          ],
+          [
+            80.3,
+            13.1
+          ],
+          [
+            80.2,
+            13.1
+          ],
+          [
+            80.2,
+            13.0
+          ]
+        ]
+      ]
+    },
+    "issuedAt": "2025-07-20T09:35:11.631469Z",
+    "expiresAt": "2025-07-20T09:35:11.631472Z"
+  },
+  {
+    "_id": "2246b35f-f738-4936-b480-c78eda2089da",
+    "type": "flood",
+    "source": "IMD",
+    "message": "Disaster Alert 7",
+    "severity": "moderate",
+    "geoLocation": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.2,
+            13.0
+          ],
+          [
+            80.3,
+            13.0
+          ],
+          [
+            80.3,
+            13.1
+          ],
+          [
+            80.2,
+            13.1
+          ],
+          [
+            80.2,
+            13.0
+          ]
+        ]
+      ]
+    },
+    "issuedAt": "2025-07-20T09:35:11.631513Z",
+    "expiresAt": "2025-07-20T09:35:11.631515Z"
+  },
+  {
+    "_id": "242c9b72-e60d-4c46-9b38-a4195cf4c23f",
+    "type": "flood",
+    "source": "IMD",
+    "message": "Disaster Alert 8",
+    "severity": "critical",
+    "geoLocation": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.2,
+            13.0
+          ],
+          [
+            80.3,
+            13.0
+          ],
+          [
+            80.3,
+            13.1
+          ],
+          [
+            80.2,
+            13.1
+          ],
+          [
+            80.2,
+            13.0
+          ]
+        ]
+      ]
+    },
+    "issuedAt": "2025-07-20T09:35:11.631533Z",
+    "expiresAt": "2025-07-20T09:35:11.631535Z"
+  },
+  {
+    "_id": "07533e16-5524-403d-b422-24b97d1b7f94",
+    "type": "cyclone",
+    "source": "IMD",
+    "message": "Disaster Alert 9",
+    "severity": "critical",
+    "geoLocation": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            80.2,
+            13.0
+          ],
+          [
+            80.3,
+            13.0
+          ],
+          [
+            80.3,
+            13.1
+          ],
+          [
+            80.2,
+            13.1
+          ],
+          [
+            80.2,
+            13.0
+          ]
+        ]
+      ]
+    },
+    "issuedAt": "2025-07-20T09:35:11.631551Z",
+    "expiresAt": "2025-07-20T09:35:11.631553Z"
+  }
+]

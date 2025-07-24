@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "e5b62dd6-9350-4dd6-8c23-6b71cdfd799f",
+    "createdBy": "8d2d134c-835b-486d-8585-39a75380e2fb",
+    "title": "Help Request 0",
+    "description": "Urgent help needed",
+    "category": "medical",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.2,
+        13.0
+      ]
+    },
+    "priority": "high",
+    "status": "open",
+    "createdAt": "2025-07-20T09:35:11.630218Z",
+    "updatedAt": "2025-07-20T09:35:11.630226Z"
+  },
+  {
+    "_id": "d677677e-b58c-47a3-9ad4-49d06cfdc9bc",
+    "createdBy": "9512519a-ff26-4b7f-807e-ae4407f45c07",
+    "title": "Help Request 1",
+    "description": "Urgent help needed",
+    "category": "transport",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.21000000000001,
+        13.01
+      ]
+    },
+    "priority": "medium",
+    "status": "open",
+    "createdAt": "2025-07-20T09:35:11.630273Z",
+    "updatedAt": "2025-07-20T09:35:11.630275Z"
+  },
+  {
+    "_id": "6530a2a5-6e39-416c-8e7d-9f20d6831195",
+    "createdBy": "fd877487-7128-4124-89d0-b43d4aa03cd0",
+    "title": "Help Request 2",
+    "description": "Urgent help needed",
+    "category": "transport",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.22,
+        13.02
+      ]
+    },
+    "priority": "medium",
+    "status": "open",
+    "createdAt": "2025-07-20T09:35:11.630287Z",
+    "updatedAt": "2025-07-20T09:35:11.630297Z"
+  },
+  {
+    "_id": "fdf76329-6ba6-4c84-b8bf-adc35eec1dbd",
+    "createdBy": "18921d62-91c8-4bff-add8-eebf486dca01",
+    "title": "Help Request 3",
+    "description": "Urgent help needed",
+    "category": "transport",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.23,
+        13.03
+      ]
+    },
+    "priority": "medium",
+    "status": "open",
+    "createdAt": "2025-07-20T09:35:11.630333Z",
+    "updatedAt": "2025-07-20T09:35:11.630337Z"
+  },
+  {
+    "_id": "c6bd9e3b-ab1b-498e-a63d-2c14ab813bf3",
+    "createdBy": "307b1521-2ca7-430f-abd6-49f2f98b5bc5",
+    "title": "Help Request 4",
+    "description": "Urgent help needed",
+    "category": "transport",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.24000000000001,
+        13.04
+      ]
+    },
+    "priority": "low",
+    "status": "open",
+    "createdAt": "2025-07-20T09:35:11.630364Z",
+    "updatedAt": "2025-07-20T09:35:11.630366Z"
+  },
+  {
+    "_id": "7be1dfb2-08fc-4e87-a262-3912e817fcd9",
+    "createdBy": "fd877487-7128-4124-89d0-b43d4aa03cd0",
+    "title": "Help Request 5",
+    "description": "Urgent help needed",
+    "category": "medical",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.25,
+        13.05
+      ]
+    },
+    "priority": "high",
+    "status": "open",
+    "createdAt": "2025-07-20T09:35:11.630379Z",
+    "updatedAt": "2025-07-20T09:35:11.630382Z"
+  },
+  {
+    "_id": "042a13b4-2db8-4ca0-af54-43b2c06677eb",
+    "createdBy": "307b1521-2ca7-430f-abd6-49f2f98b5bc5",
+    "title": "Help Request 6",
+    "description": "Urgent help needed",
+    "category": "transport",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.26,
+        13.06
+      ]
+    },
+    "priority": "medium",
+    "status": "open",
+    "createdAt": "2025-07-20T09:35:11.630398Z",
+    "updatedAt": "2025-07-20T09:35:11.630401Z"
+  },
+  {
+    "_id": "3d2e9338-8834-49e3-9a36-d1a606be0440",
+    "createdBy": "8f99a7d8-0b91-446a-8e47-94d28ef21fe6",
+    "title": "Help Request 7",
+    "description": "Urgent help needed",
+    "category": "medical",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.27,
+        13.07
+      ]
+    },
+    "priority": "low",
+    "status": "open",
+    "createdAt": "2025-07-20T09:35:11.630443Z",
+    "updatedAt": "2025-07-20T09:35:11.630448Z"
+  },
+  {
+    "_id": "2370ac48-fd6b-4adf-a656-cf62117c54f3",
+    "createdBy": "18921d62-91c8-4bff-add8-eebf486dca01",
+    "title": "Help Request 8",
+    "description": "Urgent help needed",
+    "category": "food",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.28,
+        13.08
+      ]
+    },
+    "priority": "medium",
+    "status": "open",
+    "createdAt": "2025-07-20T09:35:11.630483Z",
+    "updatedAt": "2025-07-20T09:35:11.630487Z"
+  },
+  {
+    "_id": "e2b3a760-fa2b-4762-9515-3991109652e1",
+    "createdBy": "997c0a3a-7c95-41a1-8d35-6d3c36616808",
+    "title": "Help Request 9",
+    "description": "Urgent help needed",
+    "category": "food",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.29,
+        13.09
+      ]
+    },
+    "priority": "high",
+    "status": "open",
+    "createdAt": "2025-07-20T09:35:11.630511Z",
+    "updatedAt": "2025-07-20T09:35:11.630512Z"
+  }
+]
